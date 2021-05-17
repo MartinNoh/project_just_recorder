@@ -193,7 +193,7 @@ function createDownloadLink(blob) {
 				'base64data': base64data
 			},
 			success:function(data){
-				console.log('good transference');
+				console.log('good transmission');
 			}
 		})
 	}
